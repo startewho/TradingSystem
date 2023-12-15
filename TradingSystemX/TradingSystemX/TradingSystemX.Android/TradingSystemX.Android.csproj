@@ -36,6 +36,7 @@
     <!--<IntermediateOutputPath>Y:\NET\TradingSystemX\$(MSBuildProjectName)\$(Platform)\obj\$(Configuration)\</IntermediateOutputPath>
     <OutputPath>Y:\NET\TradingSystemX\$(MSBuildProjectName)\$(Platform)\$(Configuration)\</OutputPath>-->
     <MandroidI18n />
+    <IntermediateOutputPath>C:\Users\ADMINI~1\AppData\Local\Temp\vs46D7.tmp\Debug\</IntermediateOutputPath>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
     <DebugSymbols>false</DebugSymbols>
@@ -49,6 +50,7 @@
     <EmbedAssembliesIntoApk>true</EmbedAssembliesIntoApk>
     <AndroidSupportedAbis>armeabi-v7a;x86;x86_64;arm64-v8a</AndroidSupportedAbis>
     <MandroidI18n />
+    <IntermediateOutputPath>C:\Users\ADMINI~1\AppData\Local\Temp\vs46D7.tmp\Release\</IntermediateOutputPath>
     <!--<IntermediateOutputPath>Y:\NET\TradingSystemX\$(MSBuildProjectName)\$(Platform)\obj\$(Configuration)\</IntermediateOutputPath>
     <OutputPath>Y:\NET\TradingSystemX\$(MSBuildProjectName)\$(Platform)\$(Configuration)\</OutputPath>-->
   </PropertyGroup>

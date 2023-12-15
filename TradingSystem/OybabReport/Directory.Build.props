@@ -3,7 +3,7 @@
  <PropertyGroup>
 	<!--<BaseIntermediateOutputPath>obj\$(Configuration)\</BaseIntermediateOutputPath>-->
     <!--<OutputPath>bin\$(Configuration)</OutputPath>-->
-	<BaseIntermediateOutputPath>Y:\NET\TradingSystem\obj\$(MSBuildProjectName)\</BaseIntermediateOutputPath>
-    <OutputPath>Y:\NET\TradingSystem\$(Configuration)</OutputPath>
+	<BaseIntermediateOutputPath>D:\NET\TradingSystem\obj\$(MSBuildProjectName)\</BaseIntermediateOutputPath>
+    <OutputPath>D:\NET\TradingSystem\$(Configuration)</OutputPath>
  </PropertyGroup>
 </Project>
